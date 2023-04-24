@@ -3,12 +3,10 @@
 --cor-mesa:purple;
 --face-dado:black;
 --bola:pink ;
+margin: 0;
+padding: 0;
+}
 
-}
-{
-  margin:0;
-  padding:0;
-}
 .mesa{
   width: 100%;
   height: 200px;
